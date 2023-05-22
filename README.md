@@ -17,7 +17,7 @@
 <br>
 
 - Self-taught Front-end and freelance Web developer
-- Spend most of my time testing new things on <a href"https://app.hackthebox.com/profile/1517595">HackTheBox<a/> or TryHackMe
+- Spend most of my time testing new things on [HackTheBox] (https://app.hackthebox.com/profile/1517595) or [TryHackMe] (https://tryhackme.com/p/GFB)
 - Currently learning C++ to it's full potential
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
