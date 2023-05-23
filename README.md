@@ -11,8 +11,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./Assets/user.gif" width = 50px></picture> **About me**
 
+## <picture><source media="(max-width: 767px)" srcset=""><img align="right" alt="" src="./Assets/programming.svg" width=300px></picture>
 
 <br>
 
