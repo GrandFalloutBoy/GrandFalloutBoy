@@ -53,9 +53,9 @@
 - **Operating systems**:
 	
    [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://blogs.windows.com/)
-   [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/)
-   [![Kali-Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Kali-Linux)](https://www.kali.org/)
-   [![ParrotOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.parrotsec.org/)
+   [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/)
+   [![Kali-Linux](https://img.shields.io/badge/Kali--Linux-black?style=for-the-badge&logo=Kali-Linux)](https://www.kali.org/)
+   [![ParrotOS](https://img.shields.io/badge/ParrotOS-black?style=for-the-badge&logo=Linux)](https://www.parrotsec.org/)
    [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)](https://www.apple.com/uk/macos/ventura/)
    [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://www.freebsd.org/)    
 <br>
