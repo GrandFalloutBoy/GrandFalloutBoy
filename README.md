@@ -102,7 +102,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="./Assets/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -126,7 +126,7 @@
 
 <li>
 <a href="mailto:contact@willw.uk" target="_blank">
-<img src="https://img.shields.io/badge/:  Mail me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/ Mail me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
