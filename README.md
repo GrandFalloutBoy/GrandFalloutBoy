@@ -20,6 +20,7 @@
 - Self-taught Front-end and freelance Web developer
 - Spend most of my time testing new things on [HackTheBox](https://app.hackthebox.com/profile/1517595) or [TryHackMe](https://tryhackme.com/p/GFB)
 - Currently learning C++ to it's full potential
+- Perfecting REACT and JavaScript to further my web development skills
 - Check out my [personal site](https://www.willw.uk)
 - Going on soon to study Cyber Security and Digital Forensics BSc
 
@@ -34,27 +35,29 @@
 
 - **Languages**:
     
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    [![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+    [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
+   [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+   [![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.css3.com/)
+   [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+   [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 
 
 <br>
 
 - **Operating systems**:
 	
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://blogs.windows.com/)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/)
-[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)](https://www.apple.com/uk/macos/ventura/)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://www.freebsd.org/)    
+   [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://blogs.windows.com/)
+   [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/)
+   [![Kali-Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Kali-Linux)](https://www.kali.org/)
+   [![ParrotOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.parrotsec.org/)
+   [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)](https://www.apple.com/uk/macos/ventura/)
+   [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://www.freebsd.org/)    
 <br>
 
 - **Softwares and Tools**:
