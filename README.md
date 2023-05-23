@@ -66,6 +66,10 @@
     [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrandFalloutBoy)
     [![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
     [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+    [![Apache]([https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white](https://camo.githubusercontent.com/b1d7ff63b607cb23392d6f38048fae337e8a85b3d312299e4442d45050cb0675/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41706163686526636f6c6f723d443232313238266c6f676f3d417061636865266c6f676f436f6c6f723d464646464646266c6162656c3d))](https://httpd.apache.org/)
+    [![MySQL]([https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white](https://camo.githubusercontent.com/539a184961e9ab46a914b3a57718cd52f9a122ffb33a0bcaaa92484add20ba72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d))](https://www.mysql.com/)
+    [![MS Access]([https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white](https://camo.githubusercontent.com/e3a2c104f0725201c91c6271113cd00bfe8663875e3383c072586b132f57d31a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b41636365737326636f6c6f723d413433373341266c6f676f3d4d6963726f736f66742b416363657373266c6f676f436f6c6f723d464646464646266c6162656c3d))](https://www.microsoft.com/en-gb/microsoft-365/access)
+
     
 
 <br>
