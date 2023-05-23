@@ -126,7 +126,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/" target="_blank">
+<a href="https://twitter.com/WillWard_" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  Will Ward-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
