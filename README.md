@@ -20,7 +20,7 @@
 - Self-taught Front-end and freelance Web developer
 - Spend most of my time testing new things on [HackTheBox](https://app.hackthebox.com/profile/1517595) or [TryHackMe](https://tryhackme.com/p/GFB)
 - Currently learning C++ to it's full potential
-- Perfecting REACT and JavaScript to further my web development skills
+- Perfecting REACT to further my web development skills
 - Check out my [personal site](https://www.willw.uk)
 - Going on soon to study Cyber Security and Digital Forensics BSc
 
